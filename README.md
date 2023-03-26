@@ -1,5 +1,5 @@
 # DiaPredict
-Title: Cancer Prediction using Random Forest Regression
+Title: Diabetes Prediction using Random Forest Regression
 
 
 Introduction:
